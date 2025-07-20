@@ -1,0 +1,92 @@
+{
+  "title": "Parsippany -Troy Hills STEM Pathways",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "PATHWAY OPTIONS",
+      "page": 0
+    }
+  ],
+  "_debug": {
+    "body_band_sizes": [
+      11.01,
+      11.51
+    ],
+    "size_tol": 0.6500000000000004,
+    "page_gap_q40": {
+      "1": -2.0008544921875
+    },
+    "page_gap_q60": {
+      "1": 2.001861572265625
+    },
+    "body_indent": {
+      "q10": 41.38445892333984,
+      "q25": 45.412269592285156,
+      "q50": 99.437744140625
+    },
+    "page_size_p80": {
+      "1": 11.51
+    },
+    "family_major_q25": {
+      "q25": 0.20175438596491227,
+      "major": "arialmt"
+    },
+    "shape": {
+      "wc_q35": 5.0,
+      "wc_q50": 5.0,
+      "char_q35": 30.099999999999998,
+      "fill_q40": 0.277508370393242,
+      "fill_q60": 0.3121681163513582
+    },
+    "modes": {
+      "uniform_sizes": false,
+      "list_density": 0.12280701754385964
+    },
+    "recipe_mode": false,
+    "size_candidates": [
+      "Parsippany -Troy Hills STEM Pathways",
+      "Mission Statement: ",
+      "To provide PTHSD high school students with the opportunity to ",
+      "concentrate their studies, beyond those required in high school, in the areas of science, ",
+      "technology, engineering, and mathematics, and expose students to relevant real world ",
+      "experiences through project work, conferences and presentations to enhance their high school ",
+      "experience. ",
+      "Goals:",
+      "PATHWAY OPTIONS",
+      "REGULAR PATHWAYDISTINCTION PATHWAY"
+    ],
+    "promoted_runins": [],
+    "stage1_merged": [
+      "Parsippany -Troy Hills STEM Pathways",
+      "Mission Statement:",
+      "To provide PTHSD high school students with the opportunity to",
+      "concentrate their studies, beyond those required in high school, in the areas of science,",
+      "technology, engineering, and mathematics, and expose students to relevant real world",
+      "experiences through project work, conferences and presentations to enhance their high school",
+      "experience.",
+      "Goals:",
+      "PATHWAY OPTIONS",
+      "REGULAR PATHWAYDISTINCTION PATHWAY"
+    ],
+    "stage2_soft_or": [
+      "Mission Statement:",
+      "concentrate their studies, beyond those required in high school, in the areas of science,",
+      "technology, engineering, and mathematics, and expose students to relevant real world",
+      "experiences through project work, conferences and presentations to enhance their high school",
+      "experience.",
+      "Goals:",
+      "PATHWAY OPTIONS",
+      "REGULAR PATHWAYDISTINCTION PATHWAY"
+    ],
+    "final_headings": [
+      "PATHWAY OPTIONS"
+    ],
+    "title": "Parsippany -Troy Hills STEM Pathways",
+    "phase_injected": [],
+    "cover_offset": 0,
+    "h1_anchor_sizes": [
+      15.31
+    ],
+    "h2_anchor_sizes": []
+  }
+}

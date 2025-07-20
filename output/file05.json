@@ -1,0 +1,76 @@
+{
+  "title": "",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "HOPE To SEE You THERE!",
+      "page": 0
+    }
+  ],
+  "_debug": {
+    "body_band_sizes": [
+      7.2,
+      7.22,
+      7.23,
+      7.43,
+      9.4,
+      12.4
+    ],
+    "size_tol": 0.5425,
+    "page_gap_q40": {
+      "1": -2.53851318359375
+    },
+    "page_gap_q60": {
+      "1": -1.0706787109375
+    },
+    "body_indent": {
+      "q10": 32.0168399810791,
+      "q25": 58.387901306152344,
+      "q50": 62.29779815673828
+    },
+    "page_size_p80": {
+      "1": 12.408
+    },
+    "family_major_q25": {
+      "q25": 1.0,
+      "major": "helvetica"
+    },
+    "shape": {
+      "wc_q35": 3.5999999999999996,
+      "wc_q50": 5.0,
+      "char_q35": 20.0,
+      "fill_q40": 0.38499995647566726,
+      "fill_q60": 0.5911896220393742
+    },
+    "modes": {
+      "uniform_sizes": false,
+      "list_density": 0.0
+    },
+    "recipe_mode": false,
+    "size_candidates": [
+      "HOPE To SEE You THERE! ",
+      "WW.TOPJUMP.COM "
+    ],
+    "promoted_runins": [
+      "3735 PARKWAY ",
+      "RSVP: "
+    ],
+    "stage1_merged": [
+      "3735 PARKWAY",
+      "RSVP:",
+      "HOPE To SEE You THERE!",
+      "WW.TOPJUMP.COM"
+    ],
+    "stage2_soft_or": [],
+    "final_headings": [
+      "HOPE To SEE You THERE! "
+    ],
+    "title": "",
+    "phase_injected": [],
+    "cover_offset": 0,
+    "h1_anchor_sizes": [
+      26.4
+    ],
+    "h2_anchor_sizes": []
+  }
+}
