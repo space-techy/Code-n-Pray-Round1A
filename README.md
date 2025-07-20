@@ -13,14 +13,14 @@ offline execution, and automatic batch processing of PDFs.
 # 1.  Put your input PDFs in   ./input/
 # 2.  Leave/prepare an empty   ./output/   directory
 # 3.  Build the image (once per code change)
-docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier .
+docker build --platform linux/amd64 -t codenprayround1a:codenpray1a .
 
 # 4.  Execute the solution
 docker run --rm \
   -v "$(pwd)/input:/app/input" \
   -v "$(pwd)/output:/app/output" \
   --network none \
-  mysolutionname:somerandomidentifier
+  codenprayround1a:codenpray1a
 ````
 
 After the run each `fileNN.pdf` inside `input/` will produce
