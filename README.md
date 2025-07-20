@@ -99,8 +99,7 @@ instead of `/`.)*
        {"level": "H1", "text": "Introduction", "page": 0},
        {"level": "H2", "text": "Motivation",    "page": 1},
        …
-     ],
-     "_debug": { … }
+     ]
    }
    ```
 
