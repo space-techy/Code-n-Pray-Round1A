@@ -1520,6 +1520,7 @@ if __name__ == "__main__":
     for pdf_path in pdfs:
         try:
             res = json_safe(extract(str(pdf_path)))
+            res.pop("_debug", None) 
         except Exception as e:
             print(f"[ERROR] failed on {pdf_path.name}: {e}", file=sys.stderr)
             continue
